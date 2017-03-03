@@ -54,6 +54,6 @@ class Cat extends Animal
 }
 
 
-$cat = new Cat('Test Name');
+$cat = new Cat('garfield');
 echo $cat->getName ();
 echo $cat->meow ();
